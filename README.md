@@ -1,6 +1,6 @@
 # Weather App
-This app presents 5 days weather by city (in USA), according to the user search
-
+Discover 5-day forecasts for any city in the US (only availble for US cities)
+The app is designed with React and Redux frameworks.
 
 ### Getting Started
 
